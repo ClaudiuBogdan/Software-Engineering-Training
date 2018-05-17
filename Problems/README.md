@@ -1,1 +1,1 @@
-This is where I'm going to archieve all my programming problems and exercises.
+This is where I'm going to store all my programming problems and exercises.
