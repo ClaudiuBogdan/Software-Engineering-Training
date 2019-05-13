@@ -11,3 +11,4 @@
 4. Design your code to comment itself. The easiest way to understand code is by reading it. When you design your code using clear, easy-to-understand concepts, the reader will be able to quickly conceptualize your intent.
 
 [Documenting python code](https://realpython.com/documenting-python-code/)
+[Numpy documentation format](https://numpydoc.readthedocs.io/en/latest/format.html)
